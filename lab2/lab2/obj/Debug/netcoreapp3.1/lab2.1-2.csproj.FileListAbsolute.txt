@@ -1,0 +1,14 @@
+D:\security-basics\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.1-2.exe
+D:\security-basics\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.1-2.deps.json
+D:\security-basics\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.1-2.runtimeconfig.json
+D:\security-basics\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.1-2.runtimeconfig.dev.json
+D:\security-basics\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.1-2.dll
+D:\security-basics\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.1-2.pdb
+D:\security-basics\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.1-2.csproj.AssemblyReference.cache
+D:\security-basics\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.1-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\security-basics\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.1-2.AssemblyInfoInputs.cache
+D:\security-basics\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.1-2.AssemblyInfo.cs
+D:\security-basics\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.1-2.csproj.CoreCompileInputs.cache
+D:\security-basics\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.1-2.dll
+D:\security-basics\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.1-2.pdb
+D:\security-basics\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.1-2.genruntimeconfig.cache
