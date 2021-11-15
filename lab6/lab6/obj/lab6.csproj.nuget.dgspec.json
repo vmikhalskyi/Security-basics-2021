@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Владислав\\source\\repos\\lab6\\lab6\\lab6.csproj": {}
+    "C:\\Users\\Владислав\\Desktop\\Security-basics-2021\\lab6\\lab6\\lab6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Владислав\\source\\repos\\lab6\\lab6\\lab6.csproj": {
+    "C:\\Users\\Владислав\\Desktop\\Security-basics-2021\\lab6\\lab6\\lab6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Владислав\\source\\repos\\lab6\\lab6\\lab6.csproj",
+        "projectUniqueName": "C:\\Users\\Владислав\\Desktop\\Security-basics-2021\\lab6\\lab6\\lab6.csproj",
         "projectName": "lab6",
-        "projectPath": "C:\\Users\\Владислав\\source\\repos\\lab6\\lab6\\lab6.csproj",
+        "projectPath": "C:\\Users\\Владислав\\Desktop\\Security-basics-2021\\lab6\\lab6\\lab6.csproj",
         "packagesPath": "C:\\Users\\Владислав\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Владислав\\source\\repos\\lab6\\lab6\\obj\\",
+        "outputPath": "C:\\Users\\Владислав\\Desktop\\Security-basics-2021\\lab6\\lab6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Владислав\\AppData\\Roaming\\NuGet\\NuGet.Config",

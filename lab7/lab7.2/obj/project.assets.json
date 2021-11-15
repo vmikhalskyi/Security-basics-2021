@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Владислав\\Desktop\\Security-basics-2021\\lab6\\lab6\\lab6.csproj",
-      "projectName": "lab6",
-      "projectPath": "C:\\Users\\Владислав\\Desktop\\Security-basics-2021\\lab6\\lab6\\lab6.csproj",
+      "projectUniqueName": "C:\\Users\\Владислав\\source\\repos\\lab7\\lab7.2\\lab7.2.csproj",
+      "projectName": "lab7.2",
+      "projectPath": "C:\\Users\\Владислав\\source\\repos\\lab7\\lab7.2\\lab7.2.csproj",
       "packagesPath": "C:\\Users\\Владислав\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Владислав\\Desktop\\Security-basics-2021\\lab6\\lab6\\obj\\",
+      "outputPath": "C:\\Users\\Владислав\\source\\repos\\lab7\\lab7.2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Владислав\\AppData\\Roaming\\NuGet\\NuGet.Config",
